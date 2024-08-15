@@ -48542,7 +48542,7 @@ if(k===$){p=l.a
 k!==$&&A.E()
 k=l.e=new A.i_(new A.c9(p,t.YP),t.YA)}m.w=k.gK(k).b.j(0)
 s=4
-return A.S(A.aWL(A.aTz("https","v1.nocodeapi.com","/raghamusic/spotify/xfXPNsxqoASdSNAQ/search",A.V(["q",$.azr,"type","track","perPage","1"],t.N,t.z))),$async$$0)
+return A.S(A.aWL(A.aTz("https","v1.nocodeapi.com","/raghmusicapp/spotify/jkuefLPtNxMQPeys/search",A.V(["q",$.azr,"type","track","perPage","1"],t.N,t.z))),$async$$0)
 case 4:j=b
 i=B.bK.VQ(0,A.az9(J.aF(A.ayE(j.e).c.a,"charset")).de(0,j.w),null)
 p=J.az(i)
